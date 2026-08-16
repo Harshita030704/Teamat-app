@@ -166,8 +166,5 @@ Teamat follows the **Plain UI** design system—a philosophy that prioritizes co
 
 ---
 
-## 🙌 Author
-Developed by **Prabor Kar**  
-- [Portfolio](https://prabor.netlify.app)
-- [GitHub](https://github.com/Praborkar)
-- [LinkedIn](https://linkedin.com/in/prabor-kar/)
+
+
